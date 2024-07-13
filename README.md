@@ -1,5 +1,6 @@
 
 ## Recovery Device Tree for the Samsung Galaxy M21  (Exynos-9611)
+Prebuilt Image with latest official Source Kernel Samsung M21
 
 ## Getting Started ##
 To get started with AOSP sources to build TWRP, you'll need to get familiar
